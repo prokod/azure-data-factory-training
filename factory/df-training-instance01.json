@@ -1,0 +1,9 @@
+{
+	"name": "df-training-instance01",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "77ea33ab-4d08-4ae3-8a37-c64f69601e82",
+		"tenantId": "573a839b-5771-4e9e-bcdf-b3c8f76d9a6d"
+	}
+}
